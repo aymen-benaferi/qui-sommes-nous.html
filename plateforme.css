@@ -1,0 +1,23 @@
+.gris{
+    background-color: rgba(175, 170, 177, 0.507) ;
+}
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Regular',Helvetica,Arial,Lucida,sans-serif;
+}
+p{
+        color: #7D7D7D;
+}
+    ul {
+        width: 80%;
+        margin: auto;
+    }
+.strong {
+        font-family: 'Roboto Slab',Georgia,"Times New Roman",serif;  
+}
+
+.vi{
+    display: flex;
+    justify-content: space-around;
+}
